@@ -2,4 +2,4 @@
 
 This is a practice design using gsap animation...
 
-Here is the link --- 
+Here is the link --- https://banditadas.github.io/Gsap-project/
